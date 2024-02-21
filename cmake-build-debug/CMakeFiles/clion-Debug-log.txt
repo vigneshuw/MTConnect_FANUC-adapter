@@ -1,0 +1,5 @@
+/Users/vigneshselvaraj/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Users/vigneshselvaraj/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/vigneshselvaraj/ResearchWork/MTConnect/adapter/MTConnect_FANUC-adapter -B /Users/vigneshselvaraj/ResearchWork/MTConnect/adapter/MTConnect_FANUC-adapter/cmake-build-debug
+-- fwlib32_location-NOTFOUND
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/vigneshselvaraj/ResearchWork/MTConnect/adapter/MTConnect_FANUC-adapter/cmake-build-debug

@@ -1,0 +1,1 @@
+g++ minIni.c device_datum.cpp fanuc_axis.cpp fanuc_path.cpp service.cpp condition.cpp cutting_tool.cpp string_buffer.cpp logger.cpp client.cpp server.cpp adapter.cpp fanuc_adapter.cpp FanucAdapter.cpp -lfwlib32 -DFS30D -lpthread -o adapter
