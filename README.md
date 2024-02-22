@@ -44,13 +44,15 @@ cmake .
 make
 ```
 
-2. Run the adapter
+2. Edit the `adapter.ini` file to configure FOCAS2 connection and other parameters
+
+3. Run the adapter
 
 ```shell
 ./FanucAdapter
 ```
 
-The adapter should starting running by this point and connect to the CNC machine.
+The adapter should start running by this point and connect to the CNC machine.
 
 ## Directory Structure
 
