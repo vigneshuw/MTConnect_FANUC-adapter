@@ -62,3 +62,6 @@ The adapter should start running by this point and connect to the CNC machine.
 - [ ] Adding more data items to be sent out by the adapter
 
 ## Acknowledgements
+
+- MTConnect Adapter Repository    -> https://github.com/mtconnect/adapter
+- Reading ".ini" files            -> https://github.com/compuphase/minIni
