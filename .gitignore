@@ -4,3 +4,5 @@ Fwlib32.h
 focas.log
 
 # Directories
+cmake-build-debug/
+.idea/
